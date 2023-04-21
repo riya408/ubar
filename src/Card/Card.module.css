@@ -1,0 +1,32 @@
+.main{
+
+    width: 34rem;
+    background-color: white;
+padding: 1rem;
+position: relative;
+top: 5rem;
+left: 10rem;
+}
+.headCard{
+    border-bottom: 2px solid gainsboro;
+    padding: 2rem;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+    width: 30rem;
+}
+.car{
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+}
+.drive{
+    display: flex;
+    flex-direction: column; 
+    gap:1rem;
+}
+.key{
+    display: flex;
+    flex-direction: column; 
+    gap:1rem;
+}

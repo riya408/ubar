@@ -1,0 +1,98 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+   height: 4rem;
+   background-color: black;
+   color: white;
+}
+.mainSpanL{
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    margin-left: 6rem;
+}
+.mainSpanR{
+    padding: 1rem;
+    display: flex;
+    gap: 1.5rem; 
+    margin-right: 6rem; 
+}
+
+.uber{
+    font-size: x-large;
+}
+.uber:hover{
+    cursor: pointer;
+}
+.comp{
+    display: flex;
+  padding: 0.3rem;
+}
+.comp:hover{
+    cursor: pointer;
+    background-color: rgb(59, 57, 57);
+    border-radius: 20px;
+
+}
+.saftey{
+    display: flex;
+    padding: 0.3rem;
+}
+.saftey:hover{
+    cursor: pointer;
+    background-color: rgb(59, 57, 57);
+    border-radius: 20px;
+
+}
+.help{
+    display: flex;
+    padding: 0.3rem;
+}
+.help:hover{
+    cursor: pointer;
+    background-color: rgb(59, 57, 57);
+    border-radius: 20px;
+
+}
+.sign{
+    padding: 0.3rem;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.sign:hover{
+    cursor: pointer;
+}
+.en{
+    padding: 0.3rem;
+ display: flex;
+ align-items: center;
+ gap:0.5rem;
+}
+.en:hover{
+    cursor: pointer;
+    background-color: rgb(59, 57, 57);
+    border-radius: 20px;
+
+}
+.pro{
+    padding: 0.3rem;
+    display: flex;
+ align-items: center;
+ gap:0.5rem; 
+}
+.pro:hover{
+    cursor: pointer;
+    background-color: rgb(59, 57, 57);
+    border-radius: 20px;
+
+}
+.login{
+    padding: 0.3rem;
+}
+.login:hover{
+    cursor: pointer;
+    background-color: rgb(59, 57, 57);
+    border-radius: 20px;
+
+}
